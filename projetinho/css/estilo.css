@@ -8,10 +8,19 @@ div {
     min-width: 100%;
     height: auto;
     width: auto;
-    background-image: url('https://s25.postimg.org/s4jmmhfjj/Untitled.png');
+    background-image: url('https://s25.postimg.org/zabu8b5kf/Untitled.png');
     background-size: cover;
     margin: 0;
 }
+
+.heading1 {
+    min-height: 100%;
+    min-width: 100%;
+    height: auto;
+    width: auto;
+    position: fixed;
+}
+
 
 .menuitem {
     border: 1px solid black;
@@ -32,7 +41,7 @@ div {
 .copyright {
 	position: absolute;
 	color: #FFFFFF;
-    top: 1100px;
+    top: 1120px;
     left: 50px;
 }
 
@@ -45,23 +54,23 @@ div {
 }
 
 .Homepage {
-    position: absolute;
-    top: 165px;
-    left: 270px;
+    position: fixed;
+    top: 79px;
+    left: 620px;
 
 }
 
 .Meus_p {
-    position: absolute;
-    top: 165px;
-    left: 770px;
+    position: fixed;
+    top: 79px;
+    left: 827px;
 
 }
 
 .Sobre_mim {
-    position: absolute;
-    top: 165px;
-    left: 1230px;
+    position: fixed;
+    top: 79px;
+    left: 1046px;
 
 }
 
